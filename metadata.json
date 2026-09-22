@@ -1,0 +1,6 @@
+{
+  "name": "EduClass – Trợ lý học tập",
+  "description": "Web app quản trị học tập trực quan, hiện đại dành cho học sinh và giáo viên THCS với 5 tính năng: Dashboard, Nhiệm vụ, Lịch học, Tiến độ và Thông báo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
